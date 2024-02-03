@@ -4,9 +4,7 @@
 
 ## 준비
 
-VScode
-Flutter
-OpenAI Key
+VScode, Flutter, OpenAI Key
 
 pubspec.yaml 을 통해 버전을 확인하세요!
 
